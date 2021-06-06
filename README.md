@@ -1,2 +1,2 @@
-# Tranformers from Scratch
+# Transformers from Scratch
  Implementation of Transformer architecture in Tensorflow 2.0
